@@ -25,7 +25,9 @@ I said before that the data wasn't on my side. I want to emphasize this because 
 
 I knew from tracking my alcohol consumption in the past that "14 units" of alcohol is actually quite a lot less than I had assumed. At the time, it took concerted effort to limit myself to 14 a week. Furthermore, I knew that researchers had recently shown that the ADA recommendation should really be cut down to 7 units a week max in order to mitigate cancer risk. As far as your body is concerned, the best amount of alcohol was none.
 
-I also knew that evolution by natural selection was among the most successful scientific theories of all time. I had been taught that it was just "one man's interpretation of fossils" -- presumably analogous to 
+I also knew that evolution by natural selection was among the most successful scientific theories of all time. I had been taught that it was just "one man's interpretation of fossils" -- presumably analogous to Einstein's theory of General Relativity as an "interpretation" of say gravitational waves.
+
+---
 
 Like alcohol, belief in the supernatural is just one of many ways we humans cope with the reality of death. They numb the pain of reality and reassure us that things are fine just the way are. This is not *always* a bad thing -- numbing agents do have their use. But prolonged usage leads to a crippling dependence and an inability to act in ways would that improve the status quo. Put another way, religion and alcohol make life easier in the short term but much harder in the long term. 
 
