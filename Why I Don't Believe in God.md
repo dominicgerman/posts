@@ -1,7 +1,7 @@
 ---
-title: The brief version of how I went from an evangelical to an atheist.
+title: Why I Don't Believe in God
 publish_date: 2024-08-01
-description: 
+description: The brief version of how I went from an evangelical to an atheist.
 tags:
   - atheism
 ---
