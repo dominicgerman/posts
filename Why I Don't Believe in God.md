@@ -4,10 +4,13 @@ publish_date: 2024-08-01
 description: The brief version of how I went from an evangelical to an atheist.
 tags:
   - atheism
+read_time: 7 minutes
 ---
 I grew up in a very religious household. My dad was a full-time music minister in a conservative, evangelical [denomination](https://en.wikipedia.org/wiki/Presbyterian_Church_in_America) and I attended a [bible school](https://en.wikipedia.org/wiki/Moody_Bible_Institute) for my undergraduate degree. I always believed in the core tenets of the faith like the virgin birth, the existence of hell, and the physical resurrection of Christ. In short, I grew up believing that the bible was literally true and the word of God.
 
 In college, I read a lot of theology and biblical criticism and my views on scripture softened. By the time I graduated, I had a much more nuanced view of scripture. I no longer held to biblical inerrancy, I didn't believe in a literal hell per se, and I accepted the scientific consensus that humans evolved via natural selection. However, I still believed in the physical resurrection of Christ. That doctrine seemed to be a requirement of calling oneself a Christian. I also still held onto the idea that there was a benevolent god who cared about humans and was watching over us.
+
+A year or two after I finished grad school, I decided to give up "listening to music/podcasts in the car" for Lent. The idea was that I would instead use that time to pray or just sit in silence. One day as I was trying to pray while driving, I looked at the clouds and the setting sun and thought about the planets beyond in orbit around it, and the vast interstellar space that separates our solar system from the hundreds of billions of other stars and galaxies. And then I had a bone-chilling thought: "There is no god. I'm just talking to myself in a car on rock hurtling around some random star in outer space." I didn't want to believe that — I still _wanted_ to believe in God and I knew that at least some respectable people did. So I sought out more podcasts and books to help me cope.
 
 When I met my wife in 2019, she was volunteering at a hip, Instagram-y, evangelical church in downtown Chicago. At the time, I was working at an older, liberal, mainline protestant church in the Albany Park area. I didn't hide the fact that I thought her church was kind of terrible. I had been exposed to the flashy bullshit of mega churches during my time at Moody and was well aware of the fundamentalist theology that undergirded those places. After we had been dating for several months, she left the church. She said I helped open her eyes to its cult-like nature and started her "deconstruction" process. I was happy for her.
 
